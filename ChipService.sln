@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChipService.PresentationLayer", "ChipService.PresentationLayer\ChipService.PresentationLayer.csproj", "{D04FE952-AE73-43D6-B216-4DB005AC3EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChipService.BusinessLogicLayer", "ChipService.BusinessLogicLayer\ChipService.BusinessLogicLayer.csproj", "{6D42A8A4-77CE-49C8-9FC4-2017CFAB861B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChipService.DataAccessLayer", "ChipService.DataAccessLayer\ChipService.DataAccessLayer.csproj", "{18C149B9-34AC-4139-8411-0B328734E284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04FE952-AE73-43D6-B216-4DB005AC3EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04FE952-AE73-43D6-B216-4DB005AC3EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04FE952-AE73-43D6-B216-4DB005AC3EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04FE952-AE73-43D6-B216-4DB005AC3EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D42A8A4-77CE-49C8-9FC4-2017CFAB861B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D42A8A4-77CE-49C8-9FC4-2017CFAB861B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D42A8A4-77CE-49C8-9FC4-2017CFAB861B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D42A8A4-77CE-49C8-9FC4-2017CFAB861B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C149B9-34AC-4139-8411-0B328734E284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C149B9-34AC-4139-8411-0B328734E284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C149B9-34AC-4139-8411-0B328734E284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C149B9-34AC-4139-8411-0B328734E284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
